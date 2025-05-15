@@ -3,7 +3,7 @@
 }
 
 .card{
-    height: 250px;
+    min-height: 300px;
 }
 
 .card h4{
